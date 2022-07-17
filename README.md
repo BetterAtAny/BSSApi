@@ -1,5 +1,10 @@
-# Introduction 
-Hi, im BetterAtAny and this is a Bee Swarm Api which will help people make their Bee Swarm scripts, if you use this api please give credit. 
-# How to use 
-ClaimHive() -- Claims the nearest hive to the right 
-Click() // Hey
+# Features 
+ClaimHive() 
+  Claims hive nearest to the right 
+
+Click() 
+  Collects pollen with your tool 
+  
+ClickPDipper() 
+  Steals Onett's Porcelain Dipper >:) 
+ 
